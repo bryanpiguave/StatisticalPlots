@@ -8,6 +8,7 @@ This repository serves as a valuable resource for individuals interested in unde
 
 2. R Scripts: Script files containing R code that showcases the implementation of statistical concepts in R programming language.
 
+![regression-plot](https://imgur.com/NYoRSUg.gif)
 
 
 You can reach out to me through the following channels:
