@@ -1,6 +1,6 @@
 # StatisticalPlots
 
-This repository serves as a valuable resource for individuals interested in understanding statistical models through practical implementations using Python and R. The main focus of this repository is to provide educational content through illustrative plots and code examples.
+This repository serves as a valuable resource for individuals interested in understanding statistical models through practical implementations using Python and R. The main focus of this repository is to provide educational content through illustrative plots and code examples. This is an on-going project, so more scripts will be added over time. 
 
 # In this repository, you'll find:
 
@@ -10,12 +10,13 @@ This repository serves as a valuable resource for individuals interested in unde
 
 
 
-You can reach out to Bryan Piguave through the following channels:
+You can reach out to me through the following channels:
 
 Email: bryan.piguave@eastern.edu
+
 LinkedIn: [Bryan Piguave](https://www.linkedin.com/in/bryan-piguave-llano/)
+
 Thank you for visiting my repository. 
-Happy learning through the power of statistical visualization!
 
 
 
