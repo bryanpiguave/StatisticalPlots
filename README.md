@@ -1,5 +1,5 @@
 # StatisticalPlots
-
+![logo](drawing.svg)
 This repository serves as a valuable resource for individuals interested in understanding statistical models through practical implementations using Python and R. The main focus of this repository is to provide educational content through illustrative plots and code examples. This is an on-going project, so more scripts will be added over time. 
 
 # In this repository, you'll find:
