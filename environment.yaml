@@ -1,0 +1,5 @@
+name: StatisticalPlots
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/bryan/anaconda3/envs/StatisticalPlots
