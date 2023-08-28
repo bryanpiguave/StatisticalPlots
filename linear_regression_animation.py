@@ -1,11 +1,11 @@
-from turtle import color
+
 import numpy as np
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
+
 from matplotlib.animation import FuncAnimation
 from scipy.stats import multivariate_normal
 from matplotlib.lines import Line2D
-from PIL import Image
+
 
 
 """
