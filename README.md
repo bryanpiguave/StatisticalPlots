@@ -1,4 +1,5 @@
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Package using Conda](https://github.com/bryanpiguave/StatisticalPlots/actions/workflows/python-package-conda.yml/badge.svg?branch=master)](https://github.com/bryanpiguave/StatisticalPlots/actions/workflows/python-package-conda.yml)
 <p align="center">
   <img src="drawing.svg" />
 </p>
